@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "magnopost",
+  "private_key_id": "820e5a16961c893618d6ecf7b97900b27f55f6bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDB5akFZB+wOcvI\nNe7+jq43wJAO3K+078pTa+VZf6vGDBKMwRGMvmBWxJ6uOQSDLec+1bimIS87lHnk\nUho2Phj43wll7TRaRvpkwED8ebrXx6n+BA0bcI0ToTMZKCKaSQUJ8SCpi6aUajnW\n558gxRo+PHahdgWabqgsBV8pPTvv0KYHr4MOsEcw+Q5aWAuRjdhWnizwRyyp9Le1\niXwVsHp5G0XlbHKuYsB0IKrVOf2W/TvSzr0LqNBbzZMOZfD4+njqFgwb2DKAiV++\njHRZZYC2a4Iqy/cc693RZpGS95al6xxkB8vzqFQyoWmfOhOD+MrhdWqKyHofEMEf\nmYwqTFTPAgMBAAECggEAMdNbaLg+8GEZvbwmSyHNISSJoFgTitJn0qISULpfIMhv\nZ94hLWKqjQF/qVOblj4Qg3QWPBKg+ZWA8Swr8i5o6mMeHiQjZOOCaquAx6BcZCC5\nzT2rRJbameW9pMRMiAslkVV2SDtLti3J6TCiEqCzyrRs47bZX8L50j4bIxTKNyib\nGfewgmR+SS9SbSatU6wWFJShuI3jqU6CfM9d5C1gpCCUxVP6h+7EzSedvEKmIz97\nMIXZ4r9Xgp0nhYKKXov72r/Adx4q4ysyMfTAG8KhXSXlzum/gRnOOVjpIX5ovT4j\nRN+uxarRWQML19gt5nhBw1dSb9qaLgwOsZiSMTgi0QKBgQDszbZNqzewWAzuLdGX\nCu1JW2qy1HVJ/cQzUhdqHWDawaFdGa/qUi/rLiI6nrY/n8VJkyjWCrh2T9q6hV6X\nZ0WLl+V0rU01b+8uFtulnma4FcbRoync4nxsYW0TabL7u+oo27aW/NscymT3RKg6\noiElLIktpxsKr28qt74Uk0gmxwKBgQDRnYcp1aVM3nYkNc+7X1duJvQ0srX9A1Gs\ndBPjrLZexTbrjHF8yyVmQv4yYI4DCmSN97N8X/EP8UalmhFuEvC02nkFYfJmnY9V\nvWnou0m86TGWmYv2pSBc0pDywwxbn1aZ5FwoMJ4EYUiEu8O5vZ2ykqiQ/mpaT99p\n9pcz40o5uQKBgQCm+Sp5u6gJ1RxQ+cfWrCLC3g3vSPXnFWO6GEFgVpTLy0q/vfQX\n0pntR9tk4DJ7zGmtRnG981M8QXRmntIjCfO0yYdG7UgKzQGmywFX18hwNxK5EUbc\ndGrtdQkXbimBbXBgHQSzlFngBCqLXEMPDPE4KB4WLcVYlHlbcrI6CdwPUwKBgQCQ\nZj+FjzsHYDzspvFKt9xH8qfKYc5C1PV/optM/V7InH0/+Qj5GgzSjJYGaEOMTq2E\nqz3HEWTEQccUL7WQKZYOUG6MSbQuAp6KRyjdfZ/HdrGFeJNVvt0zdI8L3Vf3CiYj\nb5AY050XkVjer2ae3sPzD1r2P31OZ7WVjp0MzqgEaQKBgQDGSuLFHJg1PHlT5e2O\nk21LiNPePNdlGeaJDswDNNZ4Yw5+IcEnwA0ya3P1mBeTq7uCAf1UTInETHlD38Sm\nu+S4v2TpnbBlPYW1Ut4oDKS+w2/XqZF5H9pPzNCX8x29+N0W7s13MdWUHeS2/TU3\nbnFfCDbLsQz1Wlc+xat4HbHhiw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "prueba@magnopost.iam.gserviceaccount.com",
+  "client_id": "103670039835592524406",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prueba%40magnopost.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
